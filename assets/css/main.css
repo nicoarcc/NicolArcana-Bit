@@ -2851,7 +2851,24 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n):before {
-				background-color: #87c5a4;
+				background-color: #CEC6C3;
+			}
+
+			.tiles article:nth-child(7n):before {
+				background-color: #E7D7C8;
+			}
+			
+			.tiles article:nth-child(8n):before {
+				background-color: #D4B2A7;
+			}
+
+
+			.tiles article:nth-child(9n):before {
+				background-color: #A38F86;
+			}
+
+			.tiles article:nth-child(10n):before {
+				background-color: #CEC6C3;
 			}
 
 		@media screen and (max-width: 1280px) {
@@ -3114,7 +3131,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #2a2f4a;
+		background-color: #A38F86;
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
 		cursor: default;
 		font-weight: 600;
@@ -3798,7 +3815,7 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		pointer-events: none;
-		background: rgba(36, 41, 67, 0.9);
+		background: rgba(163, 143, 134, 0.74);
 		box-shadow: none;
 		height: 100%;
 		left: 0;
